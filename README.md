@@ -1,0 +1,1 @@
+[Foclóir na nGaylgeoirí](https://focloir.lgbt/) is an Irish (Gaeilge) companion to [Faclair nan Gèidheal](https://faclair.lgbt/), a dictionary of Scottish Gaelic (Gàidhlig) LGBTQ+ vocabulary from [An Gèidheal Ùr](https://angeidhealur.scot/).
