@@ -1,11 +1,18 @@
-- title: Dachaigh
+
+- title: Ronsaghey
   url: /
 
-- title: Pròiseactan
-  url: /proiseactan
+- title: Fockleyr
+  url: /fockleyr/
 
-- title: Mu dheidhinn
-  url: /mu-dheidhinn
+- title: Mooin
+  url: /mooin/
 
-- title: Lorg
-  url: /lorg
+- title: Gàidhlig
+      url: https://faclair.lgbt
+
+- title: Gaeilge
+      url: https://focloir.lgbt
+
+- title: Beurla
+      url: /en
